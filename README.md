@@ -8,6 +8,9 @@ This repository was created for uploading Jusan Singularity Go Lesson Homeworks
 - [Contributing](#contributing)
 - [License](#license)
 
+## Description
+This repo will store the homeworks of JusanSingularity Go lessons
+
 ## Installation
 Clone the repo:
 ```
